@@ -1,4 +1,4 @@
-# QUAKE IP Tracer 
+# IP Tracer 
 
 Bu araç, Hedef IP'lerin coğrafi konumunu bulma, açık portları tarama, alan adı çözümlerini yapma ve internet yolu analizi (traceroute) gibi özellikler vardır. Öylesine yapılan bir tool.
 
